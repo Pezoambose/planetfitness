@@ -1,0 +1,213 @@
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
+li
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#left_bar
+{
+	float: left;
+	margin-left: 50px;
+
+
+}
+#right_bar
+{
+	float: right;
+	margin-right: 50px;
+}
+#nav_bar
+{
+	padding: 15px;
+	background-color: #404040;
+	width: 100%;
+	height: 50px;
+	overflow:hidden;
+
+	
+
+}
+a
+{
+	color: white;
+
+}
+a:link
+{
+	text-decoration: none;
+}
+a:hover
+{
+	color: yellow;
+}
+#left_bar a 
+{
+	font-size: 17px;
+	margin-right: 30px;
+	
+}
+#right_bar a
+{
+	font-size: 17px;
+	margin-left: 30px;
+}
+#button
+{
+	background-color: #ffcc00;
+	color:purple;
+	padding: 15px 50px;
+	text-align: center;
+	display: inline-block;
+	font-weight: bold;
+	border-radius: 5px;
+}
+#button:hover
+{
+	background-color: #e6b800;
+}
+#top
+{
+	width: 100%;
+	height: 500px;
+	border: 2px solid black;
+	font-size: 500%;
+	text-align: center;	
+}
+#top section
+{
+	padding-top: 100px;
+	align-content: center;
+}
+#join
+{
+	font-size: 70%;
+}
+.top_part
+{
+	font-family: 
+}
+.dropdown-content
+{
+	position: absolute;
+	display: none;
+	min-width: 160px;
+	z-index: 1;
+	background-color: #404040;
+}
+.iframe iframe
+{
+	width: 100%;
+	height:500px;
+	margin-top: 0px;
+}
+footer
+{
+	background-color: purple;
+	padding: 100px;
+}
+footer #toplinks
+{
+	padding: 50px;
+}
+footer a
+{
+	color: white;
+	display: inline;
+}
+
+.list1 a
+{
+	padding-right:30px;
+	font-size: 25px;
+}
+#toplinks .div1
+{
+ 	text-align: center;
+}
+.list2 a
+{
+	padding-right: 30px;
+	font-size: 20px; 
+}
+footer #toplinks .div2 
+{
+	text-align: center;
+	padding-bottom: 30px;
+}
+#testimonials
+{
+	overflow: auto;
+}
+#testimonials a
+{
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#floats a
+{
+	color: #9900cc;
+	text-decoration: underline;
+}
+#floats .arrow_links a
+{
+	font-weight: bolder;
+
+}
+#floats img
+{
+	width: 400px;
+	height: 400px;
+}
+#floats .container
+{
+	overflow: auto;
+}
+#bottom_container
+{
+	margin-top: 80px;
+}
+#floats .container .left_float 
+{
+	float: left;
+	clear: left;
+	margin-right: 80px;
+	margin-left: 15%;
+}
+#floats .container .right_float
+{
+	float: right;
+	clear: right;
+	margin-left: 80px;
+	margin-right: 15%;
+} 
+.side_note1
+{
+	overflow: auto;
+	margin-right: 20%;
+}
+.side_note2
+{
+	overflow: auto;
+	margin-left: 20%;
+}
+#logo
+{
+	float: left;
+	clear: both;
+	overflow: visible;
+	width: 60px;
+	height: 60px;
+}
+
+
